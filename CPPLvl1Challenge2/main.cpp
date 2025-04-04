@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstdlib>
 
-//* This program generates a random number between 1 and 6, simulating a dice roll. */
+//* This program generates a random number between 1 and 6, simulating a dice roll.
 
 int main() {
     srand(time(0)); // Seed the random number generator
